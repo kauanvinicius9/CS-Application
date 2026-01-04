@@ -111,17 +111,3 @@ static void DizerOla()
     Console.WriteLine("Olá!");
 }
 ```
-
----
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo" title="Csharp" />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo" title="Dot-Net" />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo" title="Visual Studio Code" />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" title="Git" />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" title="GitHub" />
-</div>
