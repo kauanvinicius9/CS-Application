@@ -11,11 +11,6 @@ The first project addresses topics such as:
 - Organization;
 - File handling.
 
-###
-```powershell
-git clone https://github.com/Kauan19-hub/CS-Application.git
-```
-
 ---
 
 **<h3>✅ How to Run</h3>**
@@ -130,5 +125,3 @@ static void DizerOla()
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" title="GitHub" />
 </div>
-
-###
